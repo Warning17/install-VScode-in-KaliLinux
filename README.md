@@ -5,7 +5,7 @@ copia los siguientes comandos en tu terminal
 
 *1- sudo apt update & apt upgrade*
 
-*2- sudo apt install curl gpg software-properties-common apt-transport-https*
+*2- sudo apt install curl gpg software-properties-common apt-transport-https -y*
 
 *3- sudo curl -sSL https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -*
 
