@@ -1,6 +1,6 @@
 # install-VScode-in-KaliLinux
 ----
-Copy this commands in your termnial
+Copy this commands in your terminal
 ----
 
 1-*sudo apt update & apt upgrade*
