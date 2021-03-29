@@ -1,4 +1,4 @@
-# install-VScode-in-KaliLinux
+# install-VScode-in-KaliLinux_or_parrot_Security
 ----
 Copy this commands in your terminal
 ----
