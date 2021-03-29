@@ -5,12 +5,11 @@ copia los siguientes comandos en tu terminal
 
 *1- sudo apt update & apt upgrade*
 
-*2- sudo apt install curl gpg software-properties-common apt-transport-https -y*
+*2- Download this file 
+https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64
 
-*3- sudo curl -sSL https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -*
+*3- Decompress the file
+sudo dpkg -i code_1.54.3-1615806378_amd64.deb
 
-*4- sudo echo "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main" | sudo tee /etc/apt/sources.list.d/vscode.list*
-
-*5- sudo apt update & apt upgrade*
-
-*6- sudo apt install code*
+*4- run vs
+code
